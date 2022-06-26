@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science.
 - 📫 How to reach me: therealyubraj@gmail.com
 
-My personal website: [yubrajdhakal.com.np](yubrajdhakal.com.np)
+My personal website: [yubrajdhakal.com.np](https://www.yubrajdhakal.com.np)
 
 <!---
 therealyubraj/therealyubraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
