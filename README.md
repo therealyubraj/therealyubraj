@@ -1,8 +1,9 @@
 # Hi, I'm Yubraj Sharma Dhakal
 
-Full-stack developer and M.Sc. Automotive Software Engineering student at TU Chemnitz.
+Full-stack developer currently studying M.Sc. Automotive Software Engineering at TU Chemnitz.
 
-I like building useful software, internal tools, backend systems, dashboards, automation scripts, and small experiments where I can understand the system from the inside out.
+Curious person trying to understand as much as possible.
+
 
 #### Socials
 
@@ -10,20 +11,10 @@ I like building useful software, internal tools, backend systems, dashboards, au
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:therealyubraj@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=githubpages&logoColor=white)](https://yubrajdhakal.com.np)
 
-#### Currently
+#### Looking for
 
-- Studying Automotive Software Engineering in Germany
-- Learning more about embedded systems, real-time systems, and hardware/software co-design
-- Looking for Werkstudent software development roles in Germany
-- Improving my German while working comfortably in English
-
-#### Production Highlights
-
-- 4 years of production full-stack experience before starting my master's degree
-- Built React / Node.js dashboards and backend services with PostgreSQL
-- Worked on analytics systems handling about 8 million game data points per day
-- Scaled log processing from 10 to 100 logs per second with SQL optimization and PostgreSQL stored procedures
-- Used Python for scripting, server automation, and Appium-based application test automation
+- Werkstudent software development roles in Germany
+- Can speak B1 level german
 
 #### Strongest Skills
 
